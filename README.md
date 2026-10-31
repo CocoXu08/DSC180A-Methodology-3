@@ -1,3 +1,2 @@
 # DSC180A-Methodology-3
-Ziling Xu
-zix021@ucsd.edu
+Ziling Xu and Peiling Cheng
